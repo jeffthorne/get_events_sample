@@ -1,0 +1,6 @@
+*.csv
+.idea/
+.Python
+__pycache__/
+venv/
+.idea/vcs.xml
